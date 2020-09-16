@@ -1,3 +1,13 @@
+# 比赛简介
+
+比赛链接：https://algo.qq.com/index.html?rfisource=TICP0416
+
+结果:
+| Name     | Score |  Rank | Team member|
+| :--------|:------|:----|:----|
+|正方形的圆| 1.482324	 | 6   |https://github.com/aker218<br>https://github.com/yongruihuang|
+
+
 # 安装依赖
 运行环境python3.6
 具体依赖：
