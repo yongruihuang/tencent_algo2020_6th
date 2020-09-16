@@ -1,4 +1,5 @@
 # 比赛简介
+2020 腾讯广告算法大赛
 
 比赛链接：https://algo.qq.com/index.html?rfisource=TICP0416
 
